@@ -1,2 +1,2 @@
-# Some-random-codes-for-beginning
-Nothing much! Just joking around
+# Beginning Projects
+Some initial project I've done (more like copy & paste)
